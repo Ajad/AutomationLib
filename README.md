@@ -15,7 +15,7 @@ Origin : This is based on the  original Maven archetype - webdriver-testng-artch
 		2. pages - contains page objects<br>
 		3. tests - contains testng tests<br>
 		4. utils - utility clases - contains property reader to fetch data from application.properties<br>
-		5. 
+		5. Changes from brach1
 
  
  
